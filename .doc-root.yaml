@@ -5,5 +5,5 @@ supportedLanguages: []
 properties: []
 description: Документация TSVerse
 style: blue-green
-group: tslab
-order: 6
+group: tsverse
+order: 1
